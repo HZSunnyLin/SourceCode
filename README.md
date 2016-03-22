@@ -8,3 +8,7 @@ Hi,Everyone,This is SunnyLin's SourceCode repository.In this repository,I will u
 
 English：
 English description will upload later. 
+
+2,Fibsequence.c
+
+中文：求斐波拉切数列，函数fib1利用有限的存储计算斐波拉切数列，函数fib2利用空间换取时间
