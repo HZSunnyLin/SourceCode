@@ -4,6 +4,6 @@ Hi,Everyone,This is SunnyLin's SourceCode repository.In this repository,I will u
 1,reverse_string.c
 
 Chinese：
-字符串向左向右移动n位的代码，代码里只实现了向右移动n位。向左的大家可以自己思考，在向右移动的基础上。
+字符串向左向右移动n位的代码，代码里只实现了向右移动n位。向左的大家可以自己思考，在向右移动的基础上。(例如abcdefg向右移动2位，即abcdefg->gfabcde)
 English：
 English description will upload later. 
